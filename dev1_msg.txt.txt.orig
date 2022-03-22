@@ -1,0 +1,6 @@
+Hi from dev1
+<<<<<<< HEAD
+dev1 workin ....
+=======
+dev2 working.....
+>>>>>>> db6134b (dev2 modified)
